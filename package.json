@@ -1,0 +1,31 @@
+{
+  "name": "css-module-types-loader",
+  "version": "1.0.0",
+  "description": "Create typescript typings (.d.ts files) for css-assets loaded using css-loader",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MortenHoustonLudvigsen/css-module-types-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack loader",
+    "loader",
+    "css",
+    "TypeScript"
+  ],
+  "author": "Morten Houston Ludvigsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MortenHoustonLudvigsen/css-module-types-loader/issues"
+  },
+  "homepage": "https://github.com/MortenHoustonLudvigsen/css-module-types-loader#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "regenerate": "^1.3.2",
+    "regenerate-unicode-properties": "^4.0.3"
+  }
+}
